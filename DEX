@@ -7,13 +7,13 @@
                     amount_edge: 5000000,
                     amount-infi:   200000000,
                     rate_INFI_EDGE: 0.025,
-                    rank: 1,
+                    rank: 1
                     },        
                     id_order: "12416073663130388904",
                     amount_edge: 4000000,
                     amount-infi:   100000000,
                     rate_INFI_EDGE: 0.004,
-                    rank: 2,
+                    rank: 2
                     }
         },
         "buy": {
@@ -22,14 +22,14 @@
                     amount_edge: 4000000,
                     amount-infi:   200000000,
                     rate_INFI_EDGE: 0.02,
-                    rank: 1,
+                    rank: 1
                     },
                     {
                     id_order: "12416073663130388904",
                     amount_edge: 1200000,
                     amount-infi:   100000000,
                     rate_INFI_EDGE: 0.012
-                    rank: 2,
+                    rank: 2
                     }
         },        
 
