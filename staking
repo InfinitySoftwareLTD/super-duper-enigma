@@ -1,0 +1,7 @@
+{
+            "staking_id": 20,
+            "rate_staking": 30,
+            "mini_staking": 100000000, 
+            "max_staking": 2000000000,  
+            "expiration":     3000000
+}
