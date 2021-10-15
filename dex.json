@@ -10,8 +10,8 @@
                     "rank2": {
                     "id_order": "12416073663130388904",
                     "amount_edge": 4000000,
-                    "amount_infi":   100000000,
-                    "rate_infi_edge": 0.004
+                    "amount_infi":   10000000,
+                    "rate_infi_edge": 0.4
                     }
         },
         "buy": {
