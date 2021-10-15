@@ -2,7 +2,7 @@
     "data": {   
         "sell": {
                     "rank1": {
-                        "orders": {
+                        "orders": 
                             {
                             "id_order": "31303812416073668904",
                             "amount_edge": 5000000,
@@ -15,7 +15,6 @@
                             "amount_infi":   100000000,
                             "rate_infi_edge": 0.025
                             }
-                        }
             
                     "rank2": {
                     "id_order": "12416073663130388904",
