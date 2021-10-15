@@ -31,7 +31,6 @@
                     rate_INFI_EDGE: 0.012
                     rank: 2
                     }
-        },        
-
+        }        
     }
 }
