@@ -1,16 +1,21 @@
 {
-            "rank": 1,
-            "staking_id": 20,
-            "rate_staking": 30,
-            "mini_staking": 100000000, 
-            "max_staking": 2000000000,  
-            "expiration":     3000000,
-},
-{
-            "rank": 2,
-            "staking_id": 20,
-            "rate_staking": 40,
-            "mini_staking": 100000000, 
-            "max_staking": 2000000000,  
-            "expiration":     6000000
+   "data":
+            {
+                        "rank1":
+                                    {
+                                                "staking_id": 20,
+                                                "rate_staking": 30,
+                                                "mini_staking": 100000000, 
+                                                "max_staking": 2000000000,  
+                                                "expiration":     3000000
+                                    },
+                        "rank2": 
+                                    {
+                                                "staking_id": 20,
+                                                "rate_staking": 40,
+                                                "mini_staking": 100000000, 
+                                                "max_staking": 2000000000,  
+                                                "expiration":     6000000
+                                    }
+            }
 }
