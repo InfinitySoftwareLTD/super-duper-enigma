@@ -7,7 +7,8 @@
                                                 "rate_staking": 30,
                                                 "mini_staking": 100000000, 
                                                 "max_staking": 2000000000,  
-                                                "expiration":     3000000
+                                                "expiration": 7776000,
+                                                "expiration_wallet":  "3 months"  
                                     },
                         "rank2": 
                                     {
@@ -15,7 +16,8 @@
                                                 "rate_staking": 40,
                                                 "mini_staking": 100000000, 
                                                 "max_staking": 2000000000,  
-                                                "expiration":     6000000
+                                                "expiration": 15552000,
+                                                "expiration_wallet":  "6 months"  
                                     }
             }
 }
