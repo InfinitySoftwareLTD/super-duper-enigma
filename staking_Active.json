@@ -1,0 +1,29 @@
+{
+   "data":
+  {
+status_code: 200,
+message: "Successful",
+data: {
+total: 20,
+page: 1,
+rows: 10,
+transactions: [
+{
+"staking_id": 20,
+"staking_user_id": 987545678920, 
+"amount": 15000000,
+"rate": 10,
+"profit": 1500000,
+"id_lock_stage": "fa4d434db2885d0a470f58f04de0300d2bbde4ac5e0b21a6a22dd7311ee2461d",
+"id_tx_user":   "470f58f04de0300d2bbde4ac5e0b21a6a22dd7311ee2461dfa4d434db2885d0a",
+"staking_wallet": "GdoZw5E7gc8hXGtZTd6JkZsLQRv8UHkczR",
+"staking_user_wallet": "GXGtZv8UHkczLQRoRE7gcRdw5Td6JkZs8h",
+"rate_staking": 30,
+"mini_staking": 100000000, 
+"max_staking": 2000000000,  
+"expiration_wallet":  "3 months" 
+"timestamp": 1625586739,
+"status": "active",
+}
+
+}
