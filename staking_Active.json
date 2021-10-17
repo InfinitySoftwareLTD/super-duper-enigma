@@ -1,13 +1,13 @@
 {
    "data":
   {
-status_code: 200,
-message: "Successful",
-data: {
-total: 20,
-page: 1,
-rows: 10,
-transactions: [
+"status_code": 200,
+"message": "Successful",
+"data": {
+"total": 20,
+"page": 1,
+"rows": 10,
+"transactions": [
 {
 "staking_id": 20,
 "staking_user_id": 987545678920, 
