@@ -1,9 +1,16 @@
 {
    "data":
-            {
+            {              
+                        "last_staking_wallet":
+                                    {
+                                                "staking_wallet": "GTd6GtZdoZw5E7gc8hXJkZsLQRv8UHkczR",
+                                                "staking_wallet": "GGt6dokZsLZTd6doZw5E7gc8hZw5E7hdXJ",
+                                                "staking_wallet": "GZw5E7gc8hXGtZTd6doJkZsLQRv8URHkcz"
+                                    },       
                         "rank1":
                                     {
                                                 "staking_id": 20,
+                                                "staking_wallet": "GdoZw5E7gc8hXGtZTd6JkZsLQRv8UHkczR",
                                                 "rate_staking": 30,
                                                 "mini_staking": 100000000, 
                                                 "max_staking": 2000000000,  
@@ -13,6 +20,7 @@
                         "rank2": 
                                     {
                                                 "staking_id": 20,
+                                                "staking_wallet": "GGZqMzPpvNeCogjoXpchyppYM3N8avVseTi",               
                                                 "rate_staking": 40,
                                                 "mini_staking": 100000000, 
                                                 "max_staking": 2000000000,  
