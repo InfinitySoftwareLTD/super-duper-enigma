@@ -2,11 +2,11 @@
    "data":
             {              
                         "last_staking_wallet":
-                                    {
+                                    [
                                                 "GTd6GtZdoZw5E7gc8hXJkZsLQRv8UHkczR",
                                                 "GGt6dokZsLZTd6doZw5E7gc8hZw5E7hdXJ",
                                                 "GZw5E7gc8hXGtZTd6doJkZsLQRv8URHkcz"
-                                    },       
+                                    ],      
                         "rank1":
                                     {
                                                 "staking_id": 20,
